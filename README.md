@@ -1,5 +1,6 @@
-Chart.js-PHP
+[NOT MAINTAINED] Chart.js-PHP
 ============
+Adam is now maintaining an updated version on https://github.com/Ejdamm/Chart.js-PHP, please use this one!
 
 A PHP wrapper for nnnick/Chart.js
 
